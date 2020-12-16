@@ -1,6 +1,16 @@
 .saw{color: darkgrey;}
 a {color: black; font-style: italic; text-decoration: none;}
-ol{margin-left: -20px;}
-h1{text-align: center; font-size:70px; margin-top: -10px;}
+h1{text-align: center; font-size:70px; margin:0px; padding-bottom: 10px; border-bottom: 1px solid grey;}
 h2{text-align: center; font-size: 25px;}
-.title{text-align: center; font-size:70px; margin-top: -10px;}
+ .title{text-align: center; font-size:70px; margin-top: -10px;} 
+ol{
+    border-right:1px solid grey;
+    width: 95px;
+    padding-bottom: 15px;
+    padding-top: 15px;
+    margin-left: -20px;
+    margin-top: 10px;
+}
+.indexh3{text-align: center; font-size: 17px; 
+margin-bottom: 0px;
+}
